@@ -1,0 +1,62 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pydc
+*.pyo
+*.pdb
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Poetry files
+.poetry/
+poetry.lock
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python-specific artifacts
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Test and coverage files
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+.coverage
+.cache
+*.tox/
+.tox/
+pytest_cache/
